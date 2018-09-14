@@ -1,0 +1,21 @@
+run:
+Producer is producing
+Producer is producing
+Producer is producing
+Consumer is consuming
+Consumer is consuming
+Consumer is consuming
+Consumer is waiting since buffer is empty
+Producer is producing
+Producer is producing
+Producer is producing
+Producer is producing
+Producer is producing
+Producer is waiting becuase the buffer is full
+Consumer is consuming
+Consumer is consuming
+Consumer is consuming
+Producer is producing
+Producer is producing
+Producer is producing
+Producer is waiting becuase the buffer is full
